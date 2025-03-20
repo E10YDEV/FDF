@@ -1,4 +1,5 @@
 # FDF - 42 Project
+![FDF](https://github.com/user-attachments/assets/84cf8fa1-6fa4-437c-86bf-341a0e3bdec4)
 
 ## Descripción
 
@@ -17,10 +18,7 @@ FDF es un proyecto de la escuela 42 que consiste en crear una representación gr
 - **Biblioteca gráfica**: MiniLibX (CODAM) se descargará del respositorio oficial cuando compiles.
 
 ## Instalación
-> [!TIP]
-> Puedes encontrar mapas de ejemplo en la ruta ./maps/ .
-> 
-
+ 
 1. Clona el repositorio:
     ```bash
     git clone https://github.com/tu_usuario/fdf.git
@@ -35,7 +33,9 @@ FDF es un proyecto de la escuela 42 que consiste en crear una representación gr
     ```
 
 ## Uso
-
+> [!TIP]
+> Puedes encontrar mapas de ejemplo en la ruta ./maps/ .
+>
 1. Ejecuta el programa:
     ```bash
     ./fdf mapa.fdf
