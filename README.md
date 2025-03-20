@@ -21,7 +21,7 @@ FDF es un proyecto de la escuela 42 que consiste en crear una representación gr
  
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/fdf.git
+    git clone https://github.com/E10YDEV/fdf.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
