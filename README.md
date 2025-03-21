@@ -82,6 +82,13 @@ Este archivo representa una matriz de puntos en un espacio 3D, donde cada punto 
 - **0,0x0000FF 1,0x00FF00 2,0xFF0000 1,0x00FF00 0,0x0000FF**: La tercera fila tiene un punto con altura 2 y color rojo (0xFF0000) en el centro, creando un pico.
 - **0,0x0000FF 1,0x00FF00 1,0x00FF00 1,0x00FF00 0,0x0000FF**: La cuarta fila es similar a la segunda, con una pequeña elevación.
 - **0,0x0000FF**: La última fila tiene todos los puntos con altura 0 y color azul.
+
+## Capturas
+![simplescreenrecorder-2025-03-21_18 06 54(2)](https://github.com/user-attachments/assets/50f36c5e-ad03-49b8-8864-ce41ef837e9a)
+![image](https://github.com/user-attachments/assets/f20acbf7-2715-4066-a027-a94f252d195f)
+
+
+
  
 ## Licencia
 
